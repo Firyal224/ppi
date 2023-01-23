@@ -1,0 +1,6 @@
+import 'package:flutter/material.dart';
+
+final theme = ThemeData(
+  // primarySwatch: Colors.blue,
+  backgroundColor: Colors.white,
+);
